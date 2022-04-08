@@ -4,11 +4,10 @@
 * 25 years old
 * Teamwork is the best way to achieve the goal.
 
-Skills: Java / Pyton / Bash / C++ / Ansible / Terraform / Docker / Kubernetes / Marketing / Entrepreneur
+Skills: Java / Python / Bash / C++ / Ansible / Terraform / Docker / Kubernetes / Azure Devops / CI/CD / PowerShell / Linux / Marketing / Entrepreneur
 
-- 🌱 I’m currently learning DevOps tools 
-- 👯 I’m looking to collaborate on Any idea with creativity 
-- 💬 Ask me about Ideas for upgrading processes 
+- 🌱 I’m DevOps Engineer
+- 💬 Ask me about ideas for upgrading processes 
 - 😄 Pronouns: AviraMs  
 - ⚡ Fun fact: Basketball , Gaming 
 
