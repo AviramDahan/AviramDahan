@@ -1,7 +1,7 @@
 ![](https://img.freepik.com/free-vector/devops-software-development-operations-infinity-symbol_115739-982.jpg?size=626&ext=jpg)
 
 * Aviram Dahan
-* 25 years old
+* 27 years old
 * Teamwork is the best way to achieve the goal.
 
 Skills: Java / Python / Bash / C++ / Ansible / Terraform / Docker / Kubernetes / Azure Devops / CI/CD / PowerShell / Linux / Marketing / Entrepreneur
